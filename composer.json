@@ -1,0 +1,15 @@
+{
+    "name": "porrapat/php-rachet",
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Porrapat Petchdamrongskul",
+            "email": "porrapat@webgatosoftware.com"
+        }
+    ],
+    "require": {}
+}
